@@ -1,15 +1,23 @@
 # Data Challenge 2023
 
-Le Master Mathématiques Appliquées, Statistique (Universités de Rennes 1 et Rennes 2), le Master Monnaie, Banque, Finance Assurance (Université de Rennes 1), TAC ECONOMICS et l‘association Rennes Data Science, organisent un data challenge les 20 et 21 janvier 2023 à la Faculté des Sciences Economiques de Rennes.
+The Master in Applied Mathematics and Statistics (Universities of Rennes 1 and Rennes 2), the Master in Money, Banking, Finance and Insurance (University of Rennes 1), TAC ECONOMICS and the Rennes Data Science association are organizing a data challenge on January 20th and 21st, 2023 at the Faculty of Economics in Rennes.
 
 
-## Un grand merci à nos sponsors 2023
 
-<a href="https://www.enedis.fr" target="_blank"><img src="img/logo_enedis.png" width="200"></a> &nbsp;&nbsp; <a href="https://www.groupama.fr/" target="_blank"><img src="img/Groupama_FB_RVB.jpg" width="200"></a> &nbsp;&nbsp; <a href="https://fondation.univ-rennes.fr/" target="_blank"><img src="img/logo-Fondation-Rennes1-couleur-nobaseline.png" width="200"></a>
+##  Many thanks to our 2023 sponsors
+
+<a href="https://www.enedis.fr" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/archive/7/77/20220206174115%21Logo_enedis_header.png" width="200"></a> &nbsp;&nbsp; 
+<a href="https://www.groupama.fr/" target="_blank"><img src="https://storage.googleapis.com/endurance-apps-liip/media/cache/groupama_no_filter_grid_fs/62432ca1728ee72abb6d0f72" width="200"></a> &nbsp;&nbsp; 
+<a href="https://fondation.univ-rennes.fr/" target="_blank"><img src="https://fondation.univ-rennes.fr/sites/fondation.univ-rennes.fr/files/paragraphs/images/Logo%20fondation%20noir.png" width="200"></a>
 
 
-## Ainsi qu'aux organisateurs et partenaires
 
-<a href="https://eco.univ-rennes.fr/amsr" target="_blank"><img src="img/logo_amsr.jpg" width="200"></a> &nbsp;&nbsp; <a href="https://eco.univ-rennes.fr/aerief" target="_blank"><img src="img/logo_aerief.jpg" width="200"></a> &nbsp;&nbsp; <a href="https://www.univ-rennes.fr/" target="_blank"><img src="img/UNIRENNES_LOGOnoir_0.png" width="200"></a> &nbsp;&nbsp; <a href="https://taceconomics.com" target="_blank"><img src="img/taceconomics-100px-white.png" width="100"></a>
+## And to the organizers and partners
+
+<a href="https://eco.univ-rennes.fr/amsr" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJFVhC8qDxZYA4gqlpyxEslSoS7IZSw3N8wA&s" width="200"></a> &nbsp;&nbsp; 
+<a href="https://eco.univ-rennes.fr/aerief" target="_blank"><img src="https://etudiant.univ-rennes.fr/sites/etudiant.univ-rennes.fr/files/resources/1Capture.png" width="200"></a> &nbsp;&nbsp; 
+<a href="https://www.univ-rennes.fr/" target="_blank"><img src="https://www.twinsys.io/images/testimonials/univ-rennes.png" width="200"></a> &nbsp;&nbsp; 
+<a href="https://taceconomics.com" target="_blank"><img src="https://taceconomics.com/wp-content/uploads/2024/01/Full-Wordmark.png" width="100"></a>
+
 
 
